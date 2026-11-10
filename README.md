@@ -7,7 +7,7 @@ I am eager to connect with engineering leaders, mentors, and peers, and I am act
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathan-kumar1629/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mathan Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathankumar162009@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathan-kumar1629/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mathankumar162009@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mathankumar1629&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mathankumar1629&theme=dark&hide_border=false)<br/>
